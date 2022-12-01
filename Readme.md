@@ -19,7 +19,7 @@ Evento exclusivo e gratuito, promovido pela Alura para ensino de tecnologias WEB
 
 ## 🔗 Link Acesso
 ### Link abaixo para acessar
-<a href="https://aluratube-danilofelicio.vercel.app/" target="_blank"><h2>clique aqui</h2></a>
+<a href="https://aluratube-danilofelicio.vercel.app/" target="_blank" style="font-size:20px;">Clique aqui</a>
 
 <br>
 
