@@ -56,9 +56,11 @@ background-color: ${({theme}) => theme.backgroundLevel1};
 `;
 
 const StyledBanner = styled.div`
-    background-color: blue;
     background-image: url(${({bg}) => bg});
     height: 230px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 `;
 function Header() {
     return (
